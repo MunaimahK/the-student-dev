@@ -1,4 +1,4 @@
 ---
-title: Welcome to StuDev
+title: Welcome to The StuDev
 ---
 
