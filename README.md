@@ -9,7 +9,15 @@
 # GitHub Pages
 Personal Skills achieved through this blog site
 - GitHub Actions Pipeline Complete? X | Y
+-     Need if we need for React/Angular/Other frameworks
 - Documentation of Projects?
+-     LAMP
+-     MERN
+-     Java Servlet
+-     GitHub Pages
+-     Java GUI
+-     Python GUI
+- 
 
 # GitHub Pages
 
